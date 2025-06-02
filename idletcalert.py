@@ -10,7 +10,7 @@ REGION_TO_SEARCH = (0, 0, 310, 160)
 CONFIDENCE_LEVEL = 0.6 
 CHECK_INTERVAL_SECONDS = 3
 
-print("Starting in 5 seconds...")
+print("Starting in 5 seconds... Press Ctrl+C to stop")
 time.sleep(5)
 try:
     while True:
